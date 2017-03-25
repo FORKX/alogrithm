@@ -2,6 +2,7 @@ package com.huan.anyType;
 
 import java.util.Comparator;
 
+
 public class CaseInsensitiveCompare implements Comparator<String>{
 
 	public int compare(String lhs, String rhs) {
